@@ -152,9 +152,9 @@ main .luck button:hover{
 
 @keyframes gradientAnimation {
   0% {
-    background-position: 0% 50%; /* Começa no canto superior esquerdo */
+    background-position: 0% 50%; 
   }
   100% {
-    background-position: 100% 50%; /* Termina no canto superior direito */
+    background-position: 100% 50%;
   }
 }
