@@ -1,0 +1,15 @@
+:root{
+  font-size: 62.5%;
+  --main-bg-color: linear-gradient(45deg, #190361 0%, #B0F 100%);
+  --div-bg-color: #FFF;
+  --title-color:#343558;
+  --bg-button-color: #FF9500;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
